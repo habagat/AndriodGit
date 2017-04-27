@@ -2,7 +2,7 @@
 // Hosts the MainActivityFragment on a phone and both the
 // MainActivityFragment and SettingsActivityFragment on a tablet
 package com.deitel.flagquiz;
-// Testing Lang ulit
+// Testing Lang ulit pang Apat na to!
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
