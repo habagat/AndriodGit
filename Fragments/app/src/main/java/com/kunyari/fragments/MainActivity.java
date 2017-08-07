@@ -11,7 +11,8 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main);
+        /*
         FragmentManager fragmentManager = getFragmentManager();
         FragmentTransaction fragmentTransaction =
                 fragmentManager.beginTransaction();
@@ -36,5 +37,7 @@ public class MainActivity extends Activity {
                     android.R.id.content, fragment2);
         }
         fragmentTransaction.commit();
+        */
     }
+
 }

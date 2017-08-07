@@ -74,4 +74,6 @@ public class Fragment1 extends Fragment {
         super.onDetach();
         Log.d("Fragment 1", "onDetach");
     }
+
+
 }
